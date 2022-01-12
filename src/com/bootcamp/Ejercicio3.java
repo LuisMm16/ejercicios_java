@@ -2,11 +2,11 @@ package com.bootcamp;
 
 public class Ejercicio3 {
     public static void main(String[] args) {
-        String[] nombres = {"Ella","durmio","al","calor","de","las","masas"};
-        StringBuilder nombresConcat = new StringBuilder();
-        for(String nombre : nombres){
-            nombresConcat.append(nombre).append(" ");
+        String[] letraCancion = {"Ella","durmio","al","calor","de","las","masas"};
+        StringBuilder letraCancionConcat = new StringBuilder();
+        for(String letra : letraCancion){
+            letraCancionConcat.append(letra).append(" ");
         }
-        System.out.println(nombresConcat);
+        System.out.println(letraCancionConcat);
     }
 }
