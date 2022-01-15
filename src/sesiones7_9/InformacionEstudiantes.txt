@@ -1,0 +1,4 @@
+{202103=Estudiante{nombres='Marta', apellidos='Sanchez', carrera='Ingenieria', ciclo='Sexto', numeroCursos=2, cursosActuales=[Electronica, Metodos]}
+, 202102=Estudiante{nombres='Armando', apellidos='Paredes', carrera='Matematica', ciclo='Primero', numeroCursos=4, cursosActuales=[Mate, Fisica, Redaccion, Quimica]}
+, 202101=Estudiante{nombres='Martin', apellidos='Alva', carrera='Fisica', ciclo='Sexto', numeroCursos=3, cursosActuales=[Fisica, Electromagnetismo, Fisica]}
+}
